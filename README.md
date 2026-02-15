@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 As a versatile Electrical and Electronics Engineer, I bring expertise in power engineering, machinery interfacing, and intricate circuit design to the table. My proficiency extends to integrating IoT technology and implementing machine learning algorithms, allowing me to enhance system intelligence effectively. With a background in optimizing electronic components for smart systems, I demonstrate a well-rounded approach to diverse projects. Additionally, I am also a skilled full stack developer, further enriching my capabilities in creating comprehensive solutions across various domains.
 
-*   🌍  I'm based in Blantyre, Malawi
+*   🌍  I'm based in Lilongwe, Malawi
 *   ✉️  You can contact me at [beatondawa@gmail.com](mailto:beatondawa@gmail.com)
 *   🧠  I'm learning Generative AI
 *   🤝  I'm open to collaborating on interesting projects
